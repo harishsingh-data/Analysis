@@ -1,4 +1,4 @@
-# Analysis
+# Attrition Analysis Using Powerbi
 My First Dashboard Project: Employee Attrition Analysis
 
 Project Overview :-This is my first dashboard project, where I analyzed employee attrition in a company to understand how and why employees leave.
