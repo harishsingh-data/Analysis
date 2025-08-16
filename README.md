@@ -40,6 +40,3 @@ Conclusion :-
 
 This project helped me learn how to collect, clean, and analyze HR data and how to build my first interactive Power BI dashboard.
 It gave me hands-on experience with HR Analytics and data visualization techniques.
-
-
-🖥 GitHub: [your GitHub profile]
